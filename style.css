@@ -3,10 +3,12 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
-input,button{
+input,
+button {
   outline: none;
 }
 /* Basic Style */
@@ -30,7 +32,8 @@ input,button{
 
 @media (max-width:768px) {
 
-  .app-precept { text-align: center;
+  .app-precept {
+    text-align: center;
   }
 
 }
