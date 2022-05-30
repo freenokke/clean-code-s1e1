@@ -29,8 +29,10 @@ input,button{
 }
 
 @media (max-width:768px) {
-.app-precept { text-align: center;
-}
+
+  .app-precept { text-align: center;
+  }
+
 }
 .app-appereance {
     display: block;
